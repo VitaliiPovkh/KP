@@ -1,0 +1,13 @@
+D:\Programming\Repos\KP_Lab2\KP_Lab2\bin\Debug\net7.0\KP_Lab2.deps.json
+D:\Programming\Repos\KP_Lab2\KP_Lab2\bin\Debug\net7.0\KP_Lab2.dll
+D:\Programming\Repos\KP_Lab2\KP_Lab2\bin\Debug\net7.0\KP_Lab2.pdb
+D:\Programming\Repos\KP_Lab2\KP_Lab2\obj\Debug\net7.0\KP_Lab2.csproj.AssemblyReference.cache
+D:\Programming\Repos\KP_Lab2\KP_Lab2\obj\Debug\net7.0\KP_Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Repos\KP_Lab2\KP_Lab2\obj\Debug\net7.0\KP_Lab2.AssemblyInfoInputs.cache
+D:\Programming\Repos\KP_Lab2\KP_Lab2\obj\Debug\net7.0\KP_Lab2.AssemblyInfo.cs
+D:\Programming\Repos\KP_Lab2\KP_Lab2\obj\Debug\net7.0\KP_Lab2.csproj.CoreCompileInputs.cache
+D:\Programming\Repos\KP_Lab2\KP_Lab2\obj\Debug\net7.0\XamlC.stamp
+D:\Programming\Repos\KP_Lab2\KP_Lab2\obj\Debug\net7.0\KP_Lab2.dll
+D:\Programming\Repos\KP_Lab2\KP_Lab2\obj\Debug\net7.0\refint\KP_Lab2.dll
+D:\Programming\Repos\KP_Lab2\KP_Lab2\obj\Debug\net7.0\KP_Lab2.pdb
+D:\Programming\Repos\KP_Lab2\KP_Lab2\obj\Debug\net7.0\ref\KP_Lab2.dll

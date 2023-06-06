@@ -1,0 +1,18 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="KP_Lab2.MainPage"
+             xmlns:viewmodels="clr-namespace:KP_Lab2.ViewModels"
+             xmlns:controls=" clr-namespace:KP_Lab2.Controls">
+    <ContentPage.BindingContext>
+        <viewmodels:MainViewModel/>
+    </ContentPage.BindingContext>
+    <StackLayout Padding="30" Spacing="20" BackgroundColor="{Binding BackgroundColor}">
+        <Label Text="{Binding Title}" FontSize="24" />
+        <Label x:Name="DateTimeLabel" Text="{Binding CurrentDateTime}" FontSize="24" />
+        <Button Text="Update Time" Command="{Binding UpdateTimeCommand}" />
+        <controls:BorderedEntry Placeholder="Enter here..." />
+        <Label Text="{Binding DeviceInfo}" FontSize="24" />
+        <Button Text="Update BG Color" Command="{Binding UpdateColorCommand}" />
+    </StackLayout>
+</ContentPage>
+
